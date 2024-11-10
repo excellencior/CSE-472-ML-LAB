@@ -5,7 +5,7 @@ Dataset link: https://github.com/excellencior/CSE-472-ML-LAB/releases/tag/Offlin
 Dataset link: https://github.com/excellencior/CSE-472-ML-LAB/releases/tag/Offline3_Dataset
 
 # Directory Structure
-`
+```
 .
 ├── Offline-1 (Data Preprocessing Techniques) - Pandas
 │   ├── 1905096.ipynb
@@ -59,4 +59,4 @@ Dataset link: https://github.com/excellencior/CSE-472-ML-LAB/releases/tag/Offlin
 │       ├── small_weights_0.004.pkl
 │       └── small_weights_0.005.pkl
 └── README.md
-`
+```
