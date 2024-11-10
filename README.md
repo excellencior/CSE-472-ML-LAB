@@ -19,12 +19,12 @@ Dataset link: https://github.com/excellencior/CSE-472-ML-LAB/releases/tag/Offlin
 │       ├── melb_data.csv
 │       ├── notebook.ipynb
 │       └── One-Hot Encoding.txt
-├── Offline-2 (Stacking, Bagging)
+├── <b>Offline-2 (Stacking, Bagging)</b>
 │   ├── 1905096.ipynb
 │   ├── 1905096.pdf
 │   ├── B1.csv
 │   ├── CSE472_Assignment_2.pdf
-│   ├── dataset
+│   ├── <b>dataset</b>
 │   │   ├── adult
 │   │   │   ├── adult.data
 │   │   │   ├── adult.names
@@ -37,11 +37,11 @@ Dataset link: https://github.com/excellencior/CSE-472-ML-LAB/releases/tag/Offlin
 │   │       └── WA_Fn-UseC_-Telco-Customer-Churn.csv
 │   ├── Log.txt
 │   └── LR Pipeline.html
-├── Offline-3 (Function Approximation using neural network and back propagation)
+├── <b>Offline-3 (Function Approximation using neural network and back propagation)</b>
 │   ├── 1905096.ipynb
 │   ├── Assignment3-v2.0.pdf
-│   ├── fashion-mnist_test.csv
-│   ├── fashion-mnist_train.csv
+│   ├── <b>fashion-mnist_test.csv</b>
+│   ├── <b>fashion-mnist_train.csv</b>
 │   ├── report_1905096.pdf
 │   ├── RoadMAP.md
 │   └── weights
